@@ -23,3 +23,5 @@ To push changes to the Database:
 to create Database in SQL-Server:
 
 `update-database`
+
+Creating a View: https://www.youtube.com/watch?v=7ExbqzHU2dI
